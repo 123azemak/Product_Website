@@ -1,0 +1,17 @@
+.text1 {
+  border: hidden;
+  background-color: hidden;
+  text-align: center;
+}
+.div {
+  background-color: lightsteelblue;
+  text-align: center;
+}
+.row {
+  background-color: lightsteelblue;
+  text-align: center;
+}
+.row * {
+  border: 1px solid black;
+  text-align: center;
+}
