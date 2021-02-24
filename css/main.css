@@ -1,17 +1,17 @@
-.text1 {
+.text {
   border: hidden;
   background-color: hidden;
   text-align: center;
 }
 .div {
-  background-color: lightsteelblue;
+  background-color: orchid;
   text-align: center;
 }
 .row {
-  background-color: lightsteelblue;
+  background-color: orchid;
   text-align: center;
 }
 .row * {
-  border: 1px solid black;
+  border: 1px solid rgb(194, 88, 221);
   text-align: center;
 }
