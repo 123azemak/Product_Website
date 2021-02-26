@@ -8,10 +8,14 @@
   text-align: center;
 }
 .row {
-  background-color: orchid;
   text-align: center;
 }
 .row * {
-  border: 1px solid rgb(194, 88, 221);
+  border: 1px solid
+  background-color: orchid
   text-align: center;
 }
+.col {
+  width: 100px;
+}
+/* rgb(235, 132, 235); */
